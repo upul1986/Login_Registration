@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Login_Registration</string>
+    <string name="action_settings">Settings</string>
+    <string name="string_enter_name">Enter your name</string>
+    <string name="string_choose_username">Choose your username</string>
+    <string name="string_choose_password">Choose your password</string>
+    <string name="string_enter_email">Enter your email</string>
+    <string name="button_register">Register</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_login">Login</string>
+
+    <string name="string_username">Enter user name</string>
+    <string name="string_password">Enter password</string>
+    <string name="title_activity_user_profile">UserProfile</string>
+
+    <string name="string_user_login">Login</string>
+    <string name="string_no_account">Do not have an account ?</string>
+    <string name="button_create_new">Create a new account</string>
+    <string name="title_activity_forum_topics">ForumTopics</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
